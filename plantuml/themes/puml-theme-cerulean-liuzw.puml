@@ -1,0 +1,13 @@
+!theme cerulean
+hide footbox
+skinparam sequence {
+	LifeLineBorderColor #000000
+}
+skinparam title {
+	FontSize 18
+	BorderRoundCorner 20
+	BorderThickness 0
+	BackgroundColor #ffe6e6
+}
+skinparam backgroundColor white
+skinparam minClassWidth 80
